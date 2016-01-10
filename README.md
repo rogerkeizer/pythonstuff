@@ -1,2 +1,2 @@
-# pythonstyff
+# pythonstuff
 experiments with python
